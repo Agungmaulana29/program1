@@ -1,0 +1,6 @@
+print('program pertama saya')
+print('saya agung maulana')
+print('alamat desa pangkal buluh.kec,payung.kab,bangka selatan')
+print('hobi saya memancing')
+print('saya berasal sekolah sma n 1 payung')
+print('saya lahir 29 MARET 2004')
